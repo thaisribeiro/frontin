@@ -1,0 +1,1 @@
+web: mybot app:app --log-file=-
